@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Developer;A+Talent%20Developer;Specialized%20in%20ArcGIS%20,%20QGIS,%20Mapbox,%20ThinkGeo,%20GoogleMapAPI;React,%20Vue,%20AngularJS%20for%20the%20Front-End;Node.js,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Developer;A+Talent%20Developer;%20ArcGIS%20,%20QGIS,%20Mapbox,%20ThinkGeo,%20GoogleMapAPI;React,%20Vue,%20AngularJS%20for%20the%20Front-End;Node.js,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=50">
   </a>
 </p>
 
