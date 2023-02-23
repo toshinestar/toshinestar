@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Developer;Good+Team-Player;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Svelte%20for%20the%20Front-End;Node.js,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Full-Stack+Developer;Good+Team-Player;Passionate%20Developer;Specialized%20in%20ArcGIS%20,%20QGIS,%20Mapbox,%20ThinkGeo,%20GoogleMapAPI;React,%20Vue,%20Svelte%20for%20the%20Front-End;Node.js,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=50">
   </a>
 </p>
 
@@ -151,9 +151,6 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
----
-
----
 
 <div align="center" >
   <a  align="center" href="https://github.com/toptalentdev" title="Go to Source">
@@ -165,25 +162,3 @@ Here are some ideas to get you started:
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopTalentDev&layout=compact&theme=gotham&count_private=true" /> 
 <img height="150px" />
 <br/>  
-
-
-<div align="center"><h1 font-weight="bold">What Can I do for you?</h1></div>
-
-## Full Stack and Blockchain Development
-<div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-
-### Front end Developing with Modern Front-end Libraries and Frameworks such as React, Vue, Next, Nuxt.
-<br />
-  
-### Back end Developing with Node.js(Express.js), Python(Django, Flask), Ruby on Rails, PHP(Laravel).
-<br />
-
-### Building Responsive and Beautiful UI with CSS Frameworks such as Tailwind CSS and so on.
-<br />
-  
-### Blockchain Developing with Solidity/Golang/Rust( for Smart Contract), Web3(for Integration), Hardhat/IPFS/Infura( for deploying) in Ethereum, Binance, Polygon and Avalanche Network.
-<br />
-  
-</div>
-<br />
