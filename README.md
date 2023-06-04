@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 <h1 align="center">
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=toshinestar.toshinestar" />
-  <img align="right" src="https://img.shields.io/github/followers/toshinestar?label=Follow&style=social" />
+  <img align="right" src="https://img.shields.io/github/followers/toshinestar?label=Follow&style=for-the-badge&logo=appveyor" />
 </h1>
 <br />
 
