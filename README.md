@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://github.com/TopTalentDev/TopTalentDev/blob/main/1.gif" alt="Awesome Badge" width="100%" height="450px"/> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,bots,java,py,pytorch,tensorflow,solidity,js,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,bots,java,py,pytorch,tensorflow,solidity,js,nodejs,matlab,firebase" />
   </a>
 </p>
 <h1 align="center">
