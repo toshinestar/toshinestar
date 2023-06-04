@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AlgoTrading+Bot+With+Python;MetaTrader,%20TradingView,%20Thinkorswim%20,%20NinjaTrader;React,%20Vue,%20AngularJS%20for%20the%20Front-End;Node.js,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=800&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=AlgoTrading+Bot+With+Python;MetaTrader,%20TradingView,%20Thinkorswim%20,%20NinjaTrader;Interactive Brokers,%20TD Ameritrade,%20FXCM,%20FOREX.com;Stocks,%20Optins,%20Futures,%20Forex,%20CFD,%20ETF,%20Bond;AI Trading Strategy">
   </a>
 </p>
 
