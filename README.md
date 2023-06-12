@@ -35,3 +35,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=toshinestar&show_icons=true&theme=transparent" alt="clement-fortin" width=400 height=167/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshinestar&layout=compact&show_icons=true&theme=transparent" alt="clement-fortin" width=400 height=167/>
 </div>
+
+[![Alt text](https://github.com/toshinestar/toshinestar/edit/master/2023-05-24_14-04-14.mp4?mw=640&mh=360)](https://github.com/toshinestar/toshinestar/edit/master/2023-05-24_14-04-14.mp4)
