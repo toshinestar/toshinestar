@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I%20am%20Python%20Developer;Django%20Flask%20Pyramid%20Bottle%20Jinja;RESTful%20APIs,%20Kafka;Building%20Scripts%20for%20Automated%20Trading,%20Web%20Scrapping,%20Backtesting;Machine%20Learning,%20Artificial%20Intelligence;Using%20API%20Of%20Interactive%20Brokers,%20TD%20Ameritrade%20;MetaTrader,%20TradingView,%20Thinkorswim,%20NinjaTrader&center=true&width=800&height=60">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I%20am%20a%20Full%20Stack%20Developer;Web,%20Mobile,%20Desktop%20&center=true&width=800&height=60">
   </a>
 </p>
 
